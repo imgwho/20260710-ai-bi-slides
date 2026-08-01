@@ -9,6 +9,8 @@
 - `remarkjs/`：remark.js 方案，提供可直接访问的 `index.html`。
 - `revealjs/`：reveal.js 方案，提供可直接访问的 `index.html`。
 
+👉 **[点击直接在线体验统一入口网页](https://imgwho.github.io/20260710-ai-bi-slides/)**
+
 ## 内容结构
 
 1. 为什么很多 BI 最终变成“一堆图”
@@ -62,11 +64,12 @@ npm run remark
 npm run reveal
 ```
 
-## GitHub Pages
+## GitHub Pages 在线预览
 
-仓库开启 GitHub Pages 后，四个版本的访问地址为：
+仓库项目已通过 GitHub Pages 部署，点击以下直接可用的链接即可在线浏览：
 
-- Slidev：`https://<username>.github.io/20260710-ai-bi-slides/slidev/`
-- Marp：`https://<username>.github.io/20260710-ai-bi-slides/marp/`
-- remark.js：`https://<username>.github.io/20260710-ai-bi-slides/remarkjs/`
-- reveal.js：`https://<username>.github.io/20260710-ai-bi-slides/revealjs/`
+- 🌐 **在线演示主页入口**：[https://imgwho.github.io/20260710-ai-bi-slides/](https://imgwho.github.io/20260710-ai-bi-slides/)
+- ⚡ **Slidev 方案**：[https://imgwho.github.io/20260710-ai-bi-slides/slidev/](https://imgwho.github.io/20260710-ai-bi-slides/slidev/)
+- 📄 **Marp 方案**：[https://imgwho.github.io/20260710-ai-bi-slides/marp/](https://imgwho.github.io/20260710-ai-bi-slides/marp/)
+- 🎈 **remark.js 方案**：[https://imgwho.github.io/20260710-ai-bi-slides/remarkjs/](https://imgwho.github.io/20260710-ai-bi-slides/remarkjs/)
+- 🎬 **reveal.js 方案**：[https://imgwho.github.io/20260710-ai-bi-slides/revealjs/](https://imgwho.github.io/20260710-ai-bi-slides/revealjs/)
